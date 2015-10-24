@@ -7,4 +7,5 @@ Sistem Informasi Warga Perumahan The Orchid Green Park
 - lima
 - enam
 - tujuh
+- delapan
 
