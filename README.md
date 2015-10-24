@@ -5,3 +5,5 @@ Sistem Informasi Warga Perumahan The Orchid Green Park
 - tiga
 - empat
 - lima
+- enam
+
